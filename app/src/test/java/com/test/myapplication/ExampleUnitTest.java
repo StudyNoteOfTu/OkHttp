@@ -1,13 +1,10 @@
-package com.dn_alan.myapplication;
+package com.test.myapplication;
 
 import org.junit.Test;
 
 import java.io.IOException;
 import java.io.OutputStream;
-import java.net.InetSocketAddress;
 import java.net.Socket;
-
-import javax.net.ssl.SSLSocketFactory;
 
 import okhttp3.Call;
 import okhttp3.Callback;

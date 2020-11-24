@@ -1,4 +1,4 @@
-package com.dn_alan.myapplication;
+package com.test.myapplication;
 
 public class Okhttp {
     static final List<Protocol> DEFAULT_PROTOCOLS = Util.immutableList(

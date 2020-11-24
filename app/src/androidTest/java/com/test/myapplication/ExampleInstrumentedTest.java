@@ -1,4 +1,4 @@
-package com.dn_alan.myapplication;
+package com.test.myapplication;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

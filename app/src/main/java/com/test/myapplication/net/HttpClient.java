@@ -1,6 +1,6 @@
-package com.dn_alan.myapplication.net;
+package com.test.myapplication.net;
 
-import com.dn_alan.myapplication.net.chain.Interceptor;
+import com.test.myapplication.net.chain.Interceptor;
 
 import java.util.ArrayList;
 import java.util.List;

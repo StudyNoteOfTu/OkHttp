@@ -1,13 +1,13 @@
-package com.dn_alan.myapplication;
+package com.test.myapplication;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.dn_alan.myapplication.net.Call;
-import com.dn_alan.myapplication.net.Callback;
-import com.dn_alan.myapplication.net.HttpClient;
-import com.dn_alan.myapplication.net.Request;
-import com.dn_alan.myapplication.net.Response;
+import com.test.myapplication.net.Call;
+import com.test.myapplication.net.Callback;
+import com.test.myapplication.net.HttpClient;
+import com.test.myapplication.net.Request;
+import com.test.myapplication.net.Response;
 
 public class MainActivity extends AppCompatActivity {
 

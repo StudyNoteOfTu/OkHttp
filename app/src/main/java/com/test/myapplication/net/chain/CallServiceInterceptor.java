@@ -1,10 +1,10 @@
-package com.dn_alan.myapplication.net.chain;
+package com.test.myapplication.net.chain;
 
 import android.util.Log;
 
-import com.dn_alan.myapplication.net.HttpCodec;
-import com.dn_alan.myapplication.net.HttpConnection;
-import com.dn_alan.myapplication.net.Response;
+import com.test.myapplication.net.HttpCodec;
+import com.test.myapplication.net.HttpConnection;
+import com.test.myapplication.net.Response;
 
 import java.io.IOException;
 import java.io.InputStream;

@@ -1,4 +1,4 @@
-package com.dn_alan.myapplication.net;
+package com.test.myapplication.net;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;

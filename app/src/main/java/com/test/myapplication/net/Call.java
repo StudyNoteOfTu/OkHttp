@@ -1,11 +1,11 @@
-package com.dn_alan.myapplication.net;
+package com.test.myapplication.net;
 
-import com.dn_alan.myapplication.net.chain.CallServiceInterceptor;
-import com.dn_alan.myapplication.net.chain.ConnectionInterceptor;
-import com.dn_alan.myapplication.net.chain.HeadersInterceptor;
-import com.dn_alan.myapplication.net.chain.Interceptor;
-import com.dn_alan.myapplication.net.chain.InterceptorChain;
-import com.dn_alan.myapplication.net.chain.RetryInterceptor;
+import com.test.myapplication.net.chain.CallServiceInterceptor;
+import com.test.myapplication.net.chain.ConnectionInterceptor;
+import com.test.myapplication.net.chain.HeadersInterceptor;
+import com.test.myapplication.net.chain.Interceptor;
+import com.test.myapplication.net.chain.InterceptorChain;
+import com.test.myapplication.net.chain.RetryInterceptor;
 
 import java.io.IOException;
 import java.util.ArrayList;

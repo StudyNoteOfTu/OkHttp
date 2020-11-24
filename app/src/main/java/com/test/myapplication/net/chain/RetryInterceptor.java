@@ -1,9 +1,9 @@
-package com.dn_alan.myapplication.net.chain;
+package com.test.myapplication.net.chain;
 
 import android.util.Log;
 
-import com.dn_alan.myapplication.net.Call;
-import com.dn_alan.myapplication.net.Response;
+import com.test.myapplication.net.Call;
+import com.test.myapplication.net.Response;
 
 import java.io.IOException;
 
